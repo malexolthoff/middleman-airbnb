@@ -1,0 +1,21 @@
+intstituska:
+  name: "Intstituska Flat"
+  description: "A Multi-Room Flat In Kyiv"
+  city_name: "Kyiv, Ukraine"
+  city_slug: "budapest"
+  wifi: true
+  rating: 4
+kilian:
+  name: "1603 Building 9, Guangximen, Beijing, China"
+  description: "Our Apartment in Beijing"
+  city_name: "Beijing, China"
+  city_slug: "chengdu"
+  wifi: true
+  rating: 4
+royce:
+  name: "Papa's Apartment"
+  description: Nice Apartment In Potomac
+  city_name: "Potomac, USA"
+  city_slug: "montreal"
+  wifi: true
+  rating: 3
